@@ -36,7 +36,7 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Jan Philip Wahle — Status
-  introTitle: "**Status page** for services maintained by Jan Philip Wahle."
+  introTitle: "**Status page** for services maintained by Jan Philip Wahle and Lars Kaesberg."
   introMessage: Real-time uptime and response-time data for services I maintain, powered by [Upptime](https://github.com/upptime/upptime) and hosted entirely on GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
