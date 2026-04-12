@@ -1,7 +1,7 @@
 url: https://checkmythesis.com/
-status: up
-code: 200
-responseTime: 843
-lastUpdated: 2026-04-11T23:12:19.637Z
+status: down
+code: 503
+responseTime: 665
+lastUpdated: 2026-04-12T11:01:39.137Z
 startTime: 2026-04-09T09:36:55.749Z
 generator: Upptime <https://github.com/upptime/upptime>
