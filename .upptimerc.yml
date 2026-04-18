@@ -11,6 +11,10 @@ sites:
     url: https://citeassist.uni-goettingen.de/
   - name: Check My Thesis
     url: https://checkmythesis.com/
+  - name: WK Solutions
+    url: https://wksolutions.de/
+  - name: Apple Mail AI Plugin
+    url: https://jpwahle.github.io/apple-mail-ai-composer/
   - name: Check My Thesis Supabase
     url: https://supabase.checkmythesis.com/
     expectedStatusCodes:
@@ -18,10 +22,7 @@ sites:
       - 401
   - name: Check My Thesis API
     url: https://api.checkmythesis.com/health
-  - name: WK Solutions
-    url: https://wksolutions.de/
-    headers:
-      - "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
 
 # Downtime notifications: Upptime opens a GitHub issue when a site goes down
 # and assigns it to these users. GitHub then emails each assignee at the
