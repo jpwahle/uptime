@@ -26,7 +26,9 @@ sites:
     url: https://emailbotstats.larskaesberg.de
     expectedStatusCodes:
       - 200
-      - 401
+      - 500
+  - name: AI Mensa App 
+    url: https://mensa.larskaesberg.de
 
 
 # Downtime notifications: Upptime opens a GitHub issue when a site goes down
