@@ -26,7 +26,7 @@ sites:
     url: https://emailbotstats.larskaesberg.de
     expectedStatusCodes:
       - 200
-      - 500
+      - 404
   - name: AI Mensa App 
     url: https://mensa.larskaesberg.de
 
