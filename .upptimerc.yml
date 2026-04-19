@@ -14,7 +14,7 @@ sites:
   - name: WK Solutions
     url: https://wksolutions.de/
   - name: Apple Mail AI Plugin
-    url: https://jpwahle.github.io/apple-mail-ai-composer/
+    url: https://jpwahle.github.io/apple-mail-ai-plugin/
   - name: Check My Thesis Supabase
     url: https://supabase.checkmythesis.com/
     expectedStatusCodes:
