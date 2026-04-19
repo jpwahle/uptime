@@ -22,6 +22,11 @@ sites:
       - 401
   - name: Check My Thesis API
     url: https://api.checkmythesis.com/health
+  - name: Discord Emailbot
+    url: https://emailbotstats.larskaesberg.de
+    expectedStatusCodes:
+      - 200
+      - 401
 
 
 # Downtime notifications: Upptime opens a GitHub issue when a site goes down
