@@ -27,9 +27,8 @@ sites:
     expectedStatusCodes:
       - 200
       - 404
-  - name: AI Mensa App 
+  - name: AI Mensa App
     url: https://mensa.larskaesberg.de
-
 
 # Downtime notifications: Upptime opens a GitHub issue when a site goes down
 # and assigns it to these users. GitHub then emails each assignee at the
@@ -42,10 +41,11 @@ status-website:
   # Hosted on GitHub Pages at https://jpwahle.github.io/uptime/, so no custom
   # domain (`cname`) — use `baseUrl` matching the repo name instead.
   baseUrl: /uptime
+  cname: jpwahle.github.io
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Jan Philip Wahle — Status
+  name: Jan Philip Wahle and Lars Kaesberg — Status
   introTitle: "**Status page** for services maintained by Jan Philip Wahle and Lars Kaesberg."
-  introMessage: Real-time uptime and response-time data for services I maintain, powered by [Upptime](https://github.com/upptime/upptime) and hosted entirely on GitHub Actions, Issues, and Pages.
+  introMessage: Real-time uptime and response-time data for services we maintain, powered by [Upptime](https://github.com/upptime/upptime) and hosted entirely on GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
       href: /
