@@ -29,6 +29,8 @@ sites:
       - 404
   - name: AI Mensa App
     url: https://mensa.larskaesberg.de
+  - name: Swipe Photos App
+    url: https://www.swipephotos.com/
 
 # Downtime notifications: Upptime opens a GitHub issue when a site goes down
 # and assigns it to these users. GitHub then emails each assignee at the
