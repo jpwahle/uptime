@@ -1,7 +1,7 @@
 url: https://api.checkmythesis.com/health
-status: down
-code: 503
-responseTime: 683
-lastUpdated: 2026-04-25T06:51:45.608Z
+status: up
+code: 200
+responseTime: 628
+lastUpdated: 2026-04-25T07:25:01.083Z
 startTime: 2026-04-09T09:48:32.347Z
 generator: Upptime <https://github.com/upptime/upptime>
