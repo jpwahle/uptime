@@ -31,6 +31,8 @@ sites:
     url: https://mensa.larskaesberg.de
   - name: Swipe Photos App
     url: https://www.swipephotos.com/
+  - name: VergleichsApp
+    url: https://www.vergleichsapp.com/
 
 # Downtime notifications: Upptime opens a GitHub issue when a site goes down
 # and assigns it to these users. GitHub then emails each assignee at the
