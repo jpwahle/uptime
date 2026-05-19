@@ -19,7 +19,7 @@ sites:
     url: https://supabase.checkmythesis.com/
     expectedStatusCodes:
       - 200
-      - 401
+      - 404
   - name: Check My Thesis API
     url: https://api.checkmythesis.com/health
   - name: Discord Emailbot
