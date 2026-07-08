@@ -3,16 +3,22 @@ owner: jpwahle # Your GitHub organization or username, where this repository liv
 repo: uptime # The name of this repository
 
 sites:
+  - name: Check My Thesis
+    url: https://checkmythesis.com/
+  - name: Check My Thesis API
+    url: https://api.checkmythesis.com/health
+  - name: WK Solutions
+    url: https://wksolutions.de/
+  - name: Swipe Photos App
+    url: https://www.swipephotos.com/
+  - name: Dejavue
+    url: https://dejavue.app/
   - name: Conference Deadlines
     url: https://www.conferencedeadlines.com/
   - name: AI Cards
     url: https://ai-cards.org/
   - name: CiteAssist
     url: https://citeassist.uni-goettingen.de/
-  - name: Check My Thesis
-    url: https://checkmythesis.com/
-  - name: WK Solutions
-    url: https://wksolutions.de/
   - name: Apple Mail AI Plugin
     url: https://jpwahle.github.io/apple-mail-ai-plugin/
   - name: Check My Thesis Supabase
@@ -20,8 +26,6 @@ sites:
     expectedStatusCodes:
       - 200
       - 404
-  - name: Check My Thesis API
-    url: https://api.checkmythesis.com/health
   - name: Discord Emailbot
     url: https://emailbotstats.larskaesberg.de
     expectedStatusCodes:
@@ -29,10 +33,6 @@ sites:
       - 404
   - name: AI Mensa App
     url: https://mensa.larskaesberg.de
-  - name: Swipe Photos App
-    url: https://www.swipephotos.com/
-  - name: Dejavue
-    url: https://dejavue.app/
 
 # Downtime notifications: Upptime opens a GitHub issue when a site goes down
 # and assigns it to these users. GitHub then emails each assignee at the
