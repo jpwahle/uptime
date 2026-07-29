@@ -13,6 +13,8 @@ sites:
     url: https://www.swipephotos.com/
   - name: Dejavue
     url: https://dejavue.app/
+  - name: Bloatless
+    url: https://www.bloatless.app/
   - name: Conference Deadlines
     url: https://www.conferencedeadlines.com/
   - name: AI Cards
