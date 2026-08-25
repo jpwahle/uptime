@@ -35,6 +35,8 @@ sites:
       - 404
   - name: AI Mensa App
     url: https://mensa.larskaesberg.de
+  - name: SupplementPrice
+    url: https://supplementprice.app/
 
 # Downtime notifications: Upptime opens a GitHub issue when a site goes down
 # and assigns it to these users. GitHub then emails each assignee at the
