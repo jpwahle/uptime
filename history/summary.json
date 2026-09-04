@@ -202,18 +202,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/supabase.checkyourdraft.com.ico",
     "slug": "check-your-draft-supabase",
     "status": "down",
-    "uptime": "98.91%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "98.91%",
+    "uptime": "98.12%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "98.12%",
+    "uptimeMonth": "98.12%",
+    "uptimeYear": "98.12%",
     "time": 515,
     "timeDay": 515,
     "timeWeek": 515,
     "timeMonth": 515,
     "timeYear": 515,
     "dailyMinutesDown": {
-      "2026-09-04": 0
+      "2026-09-04": 1
     }
   },
   {
