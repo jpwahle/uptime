@@ -212,19 +212,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/supabase.checkmythesis.com.ico",
     "slug": "check-your-draft-supabase",
     "status": "up",
-    "uptime": "31.57%",
-    "uptimeDay": "31.57%",
-    "uptimeWeek": "31.57%",
-    "uptimeMonth": "31.57%",
-    "uptimeYear": "31.57%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 661,
     "timeDay": 661,
     "timeWeek": 661,
     "timeMonth": 661,
     "timeYear": 661,
-    "dailyMinutesDown": {
-      "2026-09-04": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Discord Emailbot",
