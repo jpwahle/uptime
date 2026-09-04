@@ -6,7 +6,7 @@ sites:
   - name: Check Your Draft
     url: https://checkyourdraft.com/
   - name: Check My Thesis API
-    url: https://api.checkmythesis.com/health
+    url: https://api.checkyourdraft.com/health
   - name: WK Solutions
     url: https://wksolutions.de/
   - name: Swipe Photos App
@@ -24,7 +24,7 @@ sites:
   - name: Apple Mail AI Plugin
     url: https://jpwahle.github.io/apple-mail-ai-plugin/
   - name: Check Your Draft Supabase
-    url: https://supabase.checkmythesis.com/
+    url: https://supabase.checkyourdraft.com/
     expectedStatusCodes:
       - 200
       - 404
