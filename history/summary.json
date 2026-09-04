@@ -201,19 +201,19 @@
     "url": "https://supabase.checkyourdraft.com/",
     "icon": "https://icons.duckduckgo.com/ip3/supabase.checkyourdraft.com.ico",
     "slug": "check-your-draft-supabase",
-    "status": "down",
-    "uptime": "98.12%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "98.12%",
-    "uptimeMonth": "98.12%",
-    "uptimeYear": "98.12%",
-    "time": 515,
-    "timeDay": 515,
-    "timeWeek": 515,
-    "timeMonth": 515,
-    "timeYear": 515,
+    "status": "up",
+    "uptime": "17.05%",
+    "uptimeDay": "17.05%",
+    "uptimeWeek": "17.05%",
+    "uptimeMonth": "17.05%",
+    "uptimeYear": "17.05%",
+    "time": 575,
+    "timeDay": 575,
+    "timeWeek": 575,
+    "timeMonth": 575,
+    "timeYear": 575,
     "dailyMinutesDown": {
-      "2026-09-04": 1
+      "2026-09-04": 141
     }
   },
   {
