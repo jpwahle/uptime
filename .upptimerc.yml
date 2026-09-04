@@ -24,7 +24,7 @@ sites:
   - name: Apple Mail AI Plugin
     url: https://jpwahle.github.io/apple-mail-ai-plugin/
   - name: Check Your Draft Supabase
-    url: https://supabase.checkyourdraft.com/
+    url: https://supabase.checkmythesis.com/
     expectedStatusCodes:
       - 200
       - 404
