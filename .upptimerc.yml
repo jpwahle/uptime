@@ -3,8 +3,8 @@ owner: jpwahle # Your GitHub organization or username, where this repository liv
 repo: uptime # The name of this repository
 
 sites:
-  - name: Check My Thesis
-    url: https://checkmythesis.com/
+  - name: Check Your Draft
+    url: https://checkyourdraft.com/
   - name: Check My Thesis API
     url: https://api.checkmythesis.com/health
   - name: WK Solutions
@@ -23,8 +23,8 @@ sites:
     url: https://citeassist.uni-goettingen.de/
   - name: Apple Mail AI Plugin
     url: https://jpwahle.github.io/apple-mail-ai-plugin/
-  - name: Check My Thesis Supabase
-    url: https://supabase.checkmythesis.com/
+  - name: Check Your Draft Supabase
+    url: https://supabase.checkyourdraft.com/
     expectedStatusCodes:
       - 200
       - 404
@@ -37,6 +37,8 @@ sites:
     url: https://mensa.larskaesberg.de
   - name: SupplementPrice
     url: https://supplementprice.app/
+  - name: OfficeSquats
+    url: https://officesquats.app/
 
 # Downtime notifications: Upptime opens a GitHub issue when a site goes down
 # and assigns it to these users. GitHub then emails each assignee at the
