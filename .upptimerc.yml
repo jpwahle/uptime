@@ -23,11 +23,6 @@ sites:
     url: https://citeassist.uni-goettingen.de/
   - name: Apple Mail AI Plugin
     url: https://jpwahle.github.io/apple-mail-ai-plugin/
-  - name: Check Your Draft Supabase
-    url: https://supabase.checkyourdraft.com/
-    expectedStatusCodes:
-      - 200
-      - 404
   - name: Discord Emailbot
     url: https://emailbotstats.larskaesberg.de
     expectedStatusCodes:
