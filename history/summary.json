@@ -163,19 +163,19 @@
     "url": "https://citeassist.uni-goettingen.de/",
     "icon": "https://icons.duckduckgo.com/ip3/citeassist.uni-goettingen.de.ico",
     "slug": "cite-assist",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
-    "time": 975,
-    "timeDay": 988,
-    "timeWeek": 1023,
-    "timeMonth": 1030,
-    "timeYear": 975,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "86.96%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.93%",
+    "time": 976,
+    "timeDay": 1055,
+    "timeWeek": 1035,
+    "timeMonth": 1033,
+    "timeYear": 976,
     "dailyMinutesDown": {
-      "2026-10-18": 14
+      "2026-10-18": 188
     }
   },
   {
