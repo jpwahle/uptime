@@ -165,8 +165,8 @@
     "slug": "cite-assist",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 975,
@@ -175,7 +175,7 @@
     "timeMonth": 1030,
     "timeYear": 975,
     "dailyMinutesDown": {
-      "2026-10-18": 13
+      "2026-10-18": 14
     }
   },
   {
