@@ -163,9 +163,9 @@
     "url": "https://citeassist.uni-goettingen.de/",
     "icon": "https://icons.duckduckgo.com/ip3/citeassist.uni-goettingen.de.ico",
     "slug": "cite-assist",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -174,7 +174,9 @@
     "timeWeek": 1023,
     "timeMonth": 1030,
     "timeYear": 975,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-18": 0
+    }
   },
   {
     "name": "Apple Mail AI Plugin",
