@@ -32,6 +32,22 @@ sites:
     url: https://mensa.larskaesberg.de
   - name: SupplementPrice
     url: https://supplementprice.app/
+  - name: Printer Cartridge Prices
+    url: https://printercartridgeprices.com/
+  - name: Power Bank Price
+    url: https://powerbankprice.com/
+  - name: Memory Prices
+    url: https://memoryprices.app/
+  - name: Solar Panel Prices
+    url: https://solarpanelprices.app/
+  - name: Coffee Prices
+    url: https://coffeeprices.app/
+  - name: Pet Food Prices
+    url: https://petfoodprices.app/
+  - name: Razor Blade Prices
+    url: https://razorbladeprices.com/
+  - name: Contact Lens Price
+    url: https://contactlensprice.com/
   - name: OfficeSquats
     url: https://officesquats.app/
 
