@@ -1,7 +1,7 @@
 url: https://coffeeprices.app/
-status: up
-code: 200
-responseTime: 1744
-lastUpdated: 2026-11-02T02:07:52.959Z
+status: down
+code: 502
+responseTime: 54091
+lastUpdated: 2026-11-03T05:01:14.288Z
 startTime: 2026-10-18T13:57:48.885Z
 generator: Upptime <https://github.com/upptime/upptime>
